@@ -1,0 +1,3 @@
+<launch>
+<node pkg = "clear_map" name="clearing_map" type="clear_map.py" />
+</launch>
